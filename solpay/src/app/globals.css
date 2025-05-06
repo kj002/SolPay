@@ -91,17 +91,6 @@
   @apply bg-gradient-to-r from-[#17bdbd] to-[#17bdbd]/80;
 }
 
-/*
-@layer base {
-  * {
-    @apply border-border;
-  }
-  body {
-    @apply bg-background text-foreground;
-  }
-}
-*/
-
 @layer base {
   * {
     @apply border-border;
