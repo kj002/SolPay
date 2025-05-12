@@ -130,7 +130,7 @@ export default function Home() {
               className="flex flex-col sm:flex-row gap-4 justify-center"
             >
               <Link href="/payment">
-                <Button size="lg" className="bg-cyan-500 hover:bg-cyan-600 transition-all duration-300 group">
+                <Button size="lg" className="bg-cyan-500 hover:bg-cyan-600 transition-all duration-300 group text-black">
                   Try Demo
                   <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
                 </Button>
