@@ -403,7 +403,7 @@ export default function Home() {
         </section>
 
         {/* Footer */}
-        <footer className="border-t border-gray-800 py-12">
+        <footer className="border-t border-gray-800 py-12 bg-slate-700">
           <div className="container mx-auto px-4">
             <div className="grid md:grid-cols-4 gap-8">
               <div>
@@ -415,7 +415,7 @@ export default function Home() {
                 </p>
               </div>
               <div>
-                <h4 className="font-semibold mb-4">Product</h4>
+                <h4 className="font-semibold mb-4 text-cyan">Product</h4>
                 <ul className="space-y-2">
                   <li>
                     <Link href="#" className="text-gray-400 hover:text-white transition-colors">
@@ -435,7 +435,7 @@ export default function Home() {
                 </ul>
               </div>
               <div>
-                <h4 className="font-semibold mb-4">Resources</h4>
+                <h4 className="font-semibold mb-4 text-cyan">Resources</h4>
                 <ul className="space-y-2">
                   <li>
                     <Link href="#" className="text-gray-400 hover:text-white transition-colors">
