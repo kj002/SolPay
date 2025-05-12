@@ -403,7 +403,7 @@ export default function Home() {
         </section>
 
         {/* Footer */}
-        <footer className="border-t border-gray-800 py-12 bg-slate-700">
+        <footer className="border-t border-gray-800 py-12 bg-slate-900">
           <div className="container mx-auto px-4">
             <div className="grid md:grid-cols-4 gap-8">
               <div>
